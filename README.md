@@ -2,42 +2,44 @@
 
 # 🚀 Pavan Wishva Jayasekara
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Undergraduate+%40+SLIIT;Full+Stack+Developer;DevOps+Enthusiast;Distributed+Systems+Explorer;Building+Scalable+Software+Solutions;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Undergraduate+@+SLIIT;Full+Stack+Developer;DevOps+Enthusiast;Distributed+Systems+Explorer;Building+Scalable+Software+Solutions;Always+Learning+Something+New" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=pavanwishvajayasekara&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<br>
+
+<a href="https://www.linkedin.com/in/pavan-wishva-jayasekara-8aa234295">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=pavanwishvajayasekara&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Computer Science Undergraduate at **SLIIT**
 
-🚀 Passionate about building:
+💻 Passionate about:
 
-* Enterprise Web Applications
-* Real-Time Collaboration Platforms
-* Distributed Systems
-* DevOps & Cloud Solutions
-* Artificial Intelligence Applications
+- Full Stack Development
+- DevOps & Cloud Computing
+- Distributed Systems
+- Software Engineering
+- Artificial Intelligence
 
-🌱 Currently Exploring
+🌱 Currently Exploring:
 
-* Kubernetes
-* Advanced System Design
-* Cloud Native Applications
-* DevOps Automation
+- Kubernetes
+- Cloud Native Development
+- Advanced System Design
+- DevOps Automation
 
-⚡ Fun Fact
-
-I enjoy transforming complex real-world problems into scalable software solutions.
+⚡ Building software that solves real-world problems through scalable architecture and modern technologies.
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -47,13 +49,13 @@ I enjoy transforming complex real-world problems into scalable software solution
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavanwishvajayasekara&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pavanwishvajayasekara&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanwishvajayasekara&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanwishvajayasekara&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -65,17 +67,133 @@ I enjoy transforming complex real-world problems into scalable software solution
 
 ---
 
-## 🏆 GitHub Trophy Cabinet
+# 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pavanwishvajayasekara&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+### 🌍 Coordina — CCRP
 
-</div>
+Enterprise collaboration platform for NGOs, schools & communities.
+
+✅ Real-Time Communication  
+✅ Smart Calendar Sync  
+✅ Resource Booking  
+✅ Azure CI/CD
+
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Resume Screening
+
+AI-powered recruitment & candidate matching system.
+
+✅ Resume Analysis  
+✅ Smart Ranking  
+✅ Skill Matching  
+✅ AI Recommendations
+
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![AI](https://img.shields.io/badge/AI-Powered-blue?style=flat-square)
+![ML](https://img.shields.io/badge/Machine_Learning-orange?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚀 TestLang++
+
+Custom DSL for automated HTTP API testing.
+
+✅ Flex + Bison  
+✅ JUnit Generation  
+✅ Compiler Design  
+✅ API Validation
+
+<br>
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c)
+![Flex](https://img.shields.io/badge/Flex+Bison-FF6B35?style=flat-square)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square)
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Distributed File Storage
+
+Fault-tolerant distributed storage platform.
+
+✅ Raft Consensus  
+✅ Vector Clocks  
+✅ Replication  
+✅ Failure Recovery
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![Raft](https://img.shields.io/badge/Raft-00897B?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 Library Management
+
+Modern library management platform.
+
+✅ Book Reservations  
+✅ Fine Management  
+✅ User Management  
+✅ Analytics Dashboard
+
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+
+</td>
+
+<td width="50%">
+
+### 🌴 Tourism Application
+
+Destination discovery & travel planning platform.
+
+✅ Travel Planning  
+✅ Responsive UI  
+✅ Destination Management  
+✅ User Friendly
+
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![WebApp](https://img.shields.io/badge/Web_App-blue?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -85,143 +203,25 @@ I enjoy transforming complex real-world problems into scalable software solution
 
 ---
 
-# 🚀 Featured Projects
+# 🏆 Achievements
 
-## 🌍 Coordina – Community Collaboration & Resource Platform
+<div align="center">
 
-A full-stack enterprise collaboration platform designed for NGOs, schools, societies, temples, and community organizations.
+<img src="https://github-profile-trophy.vercel.app/?username=pavanwishvajayasekara&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
-### Highlights
-
-✅ Real-Time SignalR Communication
-
-✅ Multi-Level Calendar Synchronization
-
-✅ Resource Booking System
-
-✅ Role-Based Access Control
-
-✅ Task Management & Kanban Boards
-
-✅ Donation Management
-
-✅ Azure Cloud Deployment
-
-✅ Dockerized Infrastructure
-
-✅ GitHub Actions CI/CD
-
-### Tech Stack
-
-React.js • ASP.NET Web API • MySQL • SignalR • Docker • Azure
+</div>
 
 ---
 
-## ⚙️ Distributed File Storage System
+# 🌐 Connect With Me
 
-A fault-tolerant distributed storage platform implementing advanced distributed systems concepts.
-
-### Features
-
-✅ Raft Consensus Algorithm
-
-✅ Data Replication
-
-✅ Vector Clocks
-
-✅ Fault Tolerance
-
-✅ Time Synchronization
-
-✅ Real TCP Communication
-
-✅ Live Monitoring Dashboard
-
-### Tech Stack
-
-Python • Flask • WebSockets • TCP Networking
-
----
-
-## 🚀 TestLang++
-
-A Domain-Specific Language (DSL) built for HTTP API Testing.
-
-### Features
-
-✅ Flex/Bison Compiler
-
-✅ AST Generation
-
-✅ JUnit 5 Test Generation
-
-✅ Variable Injection
-
-✅ Rich Assertions
-
-✅ Detailed Error Reporting
-
-### Tech Stack
-
-C • Flex • Bison • Java • Spring Boot
-
----
-
-## 🤖 AI-Powered Resume Screening
-
-Smart recruitment platform for automated candidate screening and ranking.
-
-### Features
-
-✅ Resume Parsing
-
-✅ Candidate Ranking
-
-✅ Skill Matching
-
-✅ AI-Powered Recommendations
-
-🚧 Currently Under Development
-
----
-
-## 📚 Library Management System
-
-Full-stack library platform with reservation, borrowing, and fine management.
-
-### Features
-
-✅ Book Management
-
-✅ Reservation System
-
-✅ Borrowing Workflow
-
-✅ Automated Fine Calculation
-
-✅ Dashboard Analytics
-
-### Tech Stack
-
-React.js • Spring Boot • MongoDB
-
----
-
-## 🌴 Tourism Application
-
-Modern tourism management platform focused on destination discovery and travel planning.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/pavan-wishva-jayasekara-8aa234295">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
