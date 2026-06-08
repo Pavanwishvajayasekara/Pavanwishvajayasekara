@@ -21,11 +21,8 @@
 # About Me
 
 I'm a Computer Science Undergraduate at SLIIT, passionate about building scalable software solutions and exploring modern technologies.
-
 My interests include Full Stack Development, DevOps, Cloud Computing, Distributed Systems, and Software Engineering.
-
 Currently, I'm expanding my knowledge in Kubernetes, Azure DevOps, Cloud-Native Development, and Advanced System Design.
-
 I enjoy solving real-world problems through clean architecture, automation, and modern development practices.
 
 </div>
