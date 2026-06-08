@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="mailto:pavanwish2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -21,8 +25,11 @@
 # About Me
 
 I'm a Computer Science Undergraduate at SLIIT, passionate about building scalable software solutions and exploring modern technologies.
-My interests include Full Stack Development, DevOps, Cloud Computing, Distributed Systems, and Software Engineering.
+
+My interests include Full Stack Development, DevOps, Cloud Computing, Distributed Systems, Software Engineering, and Artificial Intelligence.
+
 Currently, I'm expanding my knowledge in Kubernetes, Azure DevOps, Cloud-Native Development, and Advanced System Design.
+
 I enjoy solving real-world problems through clean architecture, automation, and modern development practices.
 
 </div>
@@ -57,26 +64,6 @@ I enjoy solving real-world problems through clean architecture, automation, and 
 
 <div align="center">
 
-# Featured Projects
-
-🚀 Coordina — Community Collaboration & Resource Platform
-
-🤖 AI Resume Screening System
-
-⚙️ Distributed File Storage Platform
-
-🧪 TestLang++ DSL Compiler
-
-📚 Library Management System
-
-🌴 Tourism Planning Application
-
-</div>
-
----
-
-<div align="center">
-
 # Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanwishvajayasekara&theme=tokyo-night"/>
@@ -87,15 +74,29 @@ I enjoy solving real-world problems through clean architecture, automation, and 
 
 <div align="center">
 
-PROFILE VIEWS
+# Connect With Me
 
-<img src="https://komarev.com/ghpvc/?username=pavanwishvajayasekara&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/pavan-wishva-jayasekara-8aa234295">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pavanwishvajayasekara">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:pavanwish2002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pavanwishvajayasekara&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<br><br>
 
 ### 🚀 Building Software That Solves Real Problems
 
