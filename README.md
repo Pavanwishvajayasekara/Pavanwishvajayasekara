@@ -104,7 +104,7 @@ AI-powered recruitment & candidate matching system.
 
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![AI](https://img.shields.io/badge/AI-Powered-blue?style=flat-square)
 ![ML](https://img.shields.io/badge/Machine_Learning-orange?style=flat-square)
 
@@ -161,7 +161,7 @@ Modern library management platform.
 ✅ Book Reservations  
 ✅ Fine Management  
 ✅ User Management  
-✅ Analytics Dashboard
+✅ Dashboard Analytics
 
 <br>
 
@@ -198,16 +198,6 @@ Destination discovery & travel planning platform.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanwishvajayasekara&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pavanwishvajayasekara&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
