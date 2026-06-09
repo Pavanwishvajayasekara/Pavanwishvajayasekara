@@ -89,7 +89,7 @@ I enjoy solving real-world problems through clean architecture, automation, and 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=pavanwishvajayasekara&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Pavan-SCI&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <br><br>
 
