@@ -63,7 +63,7 @@ I enjoy solving real-world problems through clean architecture, automation, and 
 
 # Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanwishvajayasekara&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavan-SCI&theme=tokyo-night"/>
 
 </div>
 
