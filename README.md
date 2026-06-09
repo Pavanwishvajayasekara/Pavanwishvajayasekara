@@ -47,8 +47,6 @@ I enjoy solving real-world problems through clean architecture, automation, and 
 
 # Statistics
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pavanwishvajayasekara&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanwishvajayasekara&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
